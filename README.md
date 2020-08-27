@@ -1,10 +1,10 @@
 # 파이썬 머신러닝 완벽 가이드
 
-![Alt text](img/book_cover.jpg?raw=true "BOOK COVER")
+![Alt text](img/book_cover.jpg?raw=true "BOOK COVER"){ width=50% }
 
-- 저자: 권철민
+## 저자: 권철민
 
-- 목차
+## 목차
   * 1장: 파이썬 기반의 머신러닝과 생태계 이해
   * 2장: 사이킷런으로 시작하는 머신러닝
   * 3장: 평가
