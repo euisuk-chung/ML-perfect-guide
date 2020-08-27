@@ -1,7 +1,10 @@
 # 파이썬 머신러닝 완벽 가이드
-<img src="img/book_cover.jpg" width="250">
+- 파이썬 머신러닝 완벽 가이드 공부 및 정리
 
+---
 ## 저자: 권철민
+<img src="img/book_cover.jpg" width="250">
+~(http://www.yes24.com/Product/Goods/69752484)
 
 ## 목차
   * 1장: 파이썬 기반의 머신러닝과 생태계 이해
