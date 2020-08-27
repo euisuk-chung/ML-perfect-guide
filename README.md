@@ -1,5 +1,6 @@
 # :sauropod: 파이썬 머신러닝 완벽 가이드 :sauropod:
-- 파이썬 머신러닝 완벽 가이드 공부 및 정리
+- `파이썬 머신러닝 완벽 가이드`책을 공부하며 개인적으로 정리하고 공부한 내용을 적어놓은 repository입니다.
+- 기본적은 소스코드는 해당 책에서 제공하는 [소스코드](https://github.com/chulminkw/PerfectGuide)를 바탕으로 만들었습니다.
 
 ## 저자: 권철민
 <img src="img/book_cover.jpg" width="250">
