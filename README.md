@@ -1,6 +1,6 @@
 # 파이썬 머신러닝 완벽 가이드
 
-![Alt text](img/book_cover.jpg?raw=true "BOOK COVER"){ width=50% }
+![Alt text](img/book_cover.jpg?raw=true "BOOK COVER"){:height="36px" width="36px"}
 
 ## 저자: 권철민
 
