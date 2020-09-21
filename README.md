@@ -12,7 +12,7 @@ http://www.yes24.com/Product/Goods/69752484
   * [3장](3장_Evaluation): 평가
   * [4장](4장_Classification): 분류
   * [5장](5장_Regression): 회귀
-  * [6장](6장_Dimension Reduction): 차원 축소
+  * [6장](6장_Dimension_Reduction): 차원 축소
   * [7장](7장_Clustering): 군집화
-  * [8장](8장_Text Mining): 텍스트 분석
-  * [9장](9장_Recommender System): 추천 시스템
+  * [8장](8장_Text_Mining): 텍스트 분석
+  * [9장](9장_Recommender_System): 추천 시스템
